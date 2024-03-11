@@ -1,0 +1,32 @@
+---
+title: "About Me"
+about:
+  template: jolla
+  image: profile.JPG
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/ananya-garg81/
+    - icon: github
+      text: Github
+      href: https://github.com/ananyagarg81
+---
+
+Ananya Garg is currently a senior at UCLA, pursuing a double major in Economics and Statistics and Data Science with a concentration in Value Investing. She is passionate about the intersection of data analytics, decision science and value investing, and is keen to explore the application of these different areas through a career in asset management by taking on a multi-disciplinary approach to investment analysis.
+
+
+## Education
+
+University of California, Los Angeles | Los Angeles, CA | B.S. Statistics & Data Science, B.A. Economics [Sept 2020 - June 2024]
+
+
+
+United World College of Southeast Asia | Singapore, SG | International Baccalaureate [Aug 2010 - June 2020]
+
+## Experience
+
+Ares Management, Wealth Management Solutions | Summer Analyst | Jan 2023 - present
+
+Levi Strauss & Co., Global Supply Management | Junior Analyst | June 2022 - Aug 2022
+
+Quilt.AI | Social Impact Intern | Mar 2021 - Aug 2021
